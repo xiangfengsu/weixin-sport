@@ -59,7 +59,7 @@ export const itemList = [
 ];
 export const styleList = [
   { key: "1", value: "自主训练", unit: 1 },
-  { key: "2", value: "学校课程", unit: 1, disabled:true},
+  { key: "2", value: "学校课程", unit: 1, disabled:false},
   { key: "3", value: "社会组织", unit: 1 },
   { key: "4", value: "校训校赛", unit: 1.1 },
   { key: "5", value: "区训区赛", unit: 1.2 },
